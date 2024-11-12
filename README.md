@@ -10,3 +10,5 @@ My book of blueprint for the game Factorio
 - Balancer
 - Mine setup
 - Upgrade and deconstruct planner
+
+![image](https://github.com/user-attachments/assets/fafa87b3-3062-4049-92dc-c9a75ffac94c)
